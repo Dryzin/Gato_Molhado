@@ -12,7 +12,7 @@ Utilizando um microcontrolador **ESP8266** e a plataforma **Blynk**, o projeto c
 2.  **Oferecer Controle Híbrido:** Permitir que o usuário utilize o sistema no modo totalmente automático (baseado em limite) ou assuma o controle manual a qualquer momento via smartphone.
 3.  **Visualização Remota:** Apresentar os dados de clima e o status do sistema em tempo real através do aplicativo Blynk.
 
-![Dashboard](/Gato_Molhado/dashboard.png)
+![Dashboard](https://lh3.googleusercontent.com/chat_attachment/AP1Ws4vcCAkJDpHC9EiBdJpcA7hDENz-aLptURbWUpLp0NGwdHqgmmqFKtjUGEYjSJWiAfgSHiqAYtDfPKBfhSD2sxlszVFhUXi_PeC6RLK6Glv_L-09gtdP283Qu41lYiRP0vl3wSvb-Anw1R15H7FT6qzjpGsIf3jTwfDEcYmT4m0r3_CT8keeZ0lcuFEsFzZzJ--t5N0DhuFm_pCF1WIM26XXS2LSYdPBsvhEUdMXpolFutQHosF94Xhqq7RNWH_uTkYl8Ol7Aheje3tl3n4B6xGK0VmaMySr5YgbKrSBWyB04H_zDdDTTED5Fhs42GWfAlE=w1920-h945-rw)
 
 ## O que o Projeto Realiza (Funcionalidades)
 
